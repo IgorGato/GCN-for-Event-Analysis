@@ -2,7 +2,7 @@
 
 Graph Convulational Network (GCN) is a technique applied in several studies to analyze events organized in a graph structure. Using this technique as a basis, we created an algorithm that adds a new parameter to its analysis, with the power to increase or decrease the importance of certain types of data, depending on their classification among components of an event (why, what, , when, where and how) thus altering the final result of the experiment. Note in the image below, after using the importance P Matrix, the relevance of the 'where' parameter data in obtaining the final result decreased.
 
-<img src="img.jpg" alt="drawing" width="600"/>
+<img src="img.jpg" alt="drawing" width="800"/>
 
 ### Using a pre-trained GCN Embeddings model
 
